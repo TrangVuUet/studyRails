@@ -11,4 +11,3 @@
 - sua doi noi dung hien thi mac dinh -> sua root route trong config/route.rb
 - rm -rf (recusively force) >< checkout -f
 - loi quen ko sua root -> push len heroku 404
-- sau khi push len heroku, phai update database thi moi chay duoc
